@@ -112,7 +112,6 @@ li a {
 .col {
     float: left;
     width: 23%;
-    height: 600px;
     padding: 1px;
     margin-bottom: 20px;
 }
@@ -121,7 +120,6 @@ li a {
 .center{
     width: 50%;
     margin: 0 2%;
-    overflow: hidden;
 }
 /* DIV IMMAGINE NELLA COLONNA  */
 .col-img {
@@ -144,7 +142,7 @@ li a {
 
 .footer {
     font-family: "Monserrat", Arial;
-    margin-bottom: 20px;
+    margin-top: 5%;
     font-size: 20px;
     color: gray;
     text-align: center;
